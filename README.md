@@ -35,8 +35,8 @@ cd netflix-clone
 npm install
 npm run start
 ```
-- Make sure to set up your Firebase project and API keys in an .env file:
 
+- Make sure to set up your Firebase project and API keys in an .env file:
 ```bash
 REACT_APP_FIREBASE_API_KEY=your_api_key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your_project_id.firebaseapp.com
